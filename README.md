@@ -1,3 +1,3 @@
 # README
 
-Test app for Ruby on Rails course!
+First test repo for Test app -  for the Complete Ruby on Rails Developer Course.
